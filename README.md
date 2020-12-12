@@ -11,7 +11,7 @@ Predict the percentage of marks of an student based on the number of study hours
 ![](/images/2.png)
 
 
-# [Project 2](https://github.com/Jyothif/Superhero_Data_Exploration) This project combination of two data sets with different types of "Data Exploration"
+# [Project 2](https://github.com/Jyothif/Superhero_Data_Exploration) This project combination of two data sets with different types of "Data Exploration Techniques"
 
 # **Superheros Data Exploration**
 
