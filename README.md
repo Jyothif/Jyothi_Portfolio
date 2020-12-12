@@ -11,13 +11,16 @@ Predict the percentage of marks of an student based on the number of study hours
 ![](/images/2.png)
 
 
-# [Project 2](https://github.com/Jyothif/Superhero_Data_Exploration)
+# [Project 2](https://github.com/Jyothif/Superhero_Data_Exploration): This project combination of two data sets with types of "Data Exploration"
 
-# **Project is based on the Superheros**
+# **Superheros Data Exploration
 
 * Super Heroes have been in popular culture for a long time and now more than ever. Since its creation, super heroes have not been very diverse, but that is changing rapidly, an overview about heroes and their physical as well as power characteristics, helping researchers and curious minds identify trends and patterns.
 
-![]()
+![](/images/4.png)
+
+# Heart Disease Data Exploration
+![](/images/h5.png)
 
 
 
