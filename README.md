@@ -1,6 +1,3 @@
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="jyothi-panuganti-24b2561b8"><a class="LI-simple-link" href='https://in.linkedin.com/in/jyothi-panuganti-24b2561b8?trk=profile-badge'>Jyothi Panuganti</a></div>
-
-
 # [Project 1](https://github.com/Jyothif/Predicting-_Student-Score_Linear-Regression)
 
 # **Student Score Prediction**
@@ -59,4 +56,4 @@ As the Linear Regression project, I have implemented the best fit line by cross 
 
 ![](/images/9.png)![](/images/10.png)
 
-
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="jyothi-panuganti-24b2561b8"><a class="LI-simple-link" href='https://in.linkedin.com/in/jyothi-panuganti-24b2561b8?trk=profile-badge'>Jyothi Panuganti</a></div>
