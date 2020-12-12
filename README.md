@@ -20,9 +20,9 @@ Predict the percentage of marks of an student based on the number of study hours
 ![](/images/4.png)
 
 # Heart Disease Data Exploration
-![](/images/h5.png) ![](/7.png)
+![](/images/h5.png) ![](images/7.png)
 
-#[Project 3](https://github.com/Jyothif/k-means-clustering_iris-dataset)
+# [Project 3](https://github.com/Jyothif/k-means-clustering_iris-dataset)
 * It mainly delas with finding a structure or pattern in a collection of uncategorized data.
 * For this IRIS data set I am using k-Means clustering algorithm.
 * k-menas clustering: A k-Means Clustering algorithm tries to group similar items in the form of clusters.The No.of groups is represented by 'k'
