@@ -11,7 +11,7 @@ Predict the percentage of marks of an student based on the number of study hours
 ![](/images/2.png)
 
 
-# [Project 2] 
+# Project 2
 This project combination of two data sets with different types of "Data Exploration Techniques"
 
 # [Superheros Data Exploration](https://github.com/Jyothif/Superhero_Data_Exploration)
@@ -55,13 +55,5 @@ As the Linear Regression project, I have implemented the best fit line by cross 
 
 
 ![](/images/9.png)![](/images/10.png)
-
-
-
-
-
-
-
-
 
 
