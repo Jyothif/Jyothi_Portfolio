@@ -53,7 +53,7 @@ There was a time mobile devices were primarily used for making telephone calls. 
 As the Linear Regression project, I have implemented the best fit line by cross examine using MAE,MSE,RMSE
 
 
-![](/images/9.png) ![](/images/10.png)
+![](/images/9.png)![](/images/10.png)
 
 
 
