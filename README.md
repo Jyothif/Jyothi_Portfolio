@@ -3,4 +3,4 @@
 * Linear Regression is machine learning algorithm based on supervised learning.
 * It performs regression task,regression models target prediction value on independent variables.
 * Its the relationship between dependent and independent variables,number of indepenndent variable being used
-![](/images/1.png)
+![](/images/2.png)
